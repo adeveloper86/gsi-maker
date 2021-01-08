@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.12.28/miui_LAURUS_20.12.28_27a143ce05_10.0.zip
+  ROM_URL: https://nchc.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.12.9/xiaomi.eu_multi_HMK20ProMI9TPro_20.12.9_v12-10.zip
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
@@ -26,7 +26,7 @@ jobs:
 
        
        - name: Clone ErfanGSI Source Code
-         run: git clone --recurse-submodules  https://github.com/Velosh/ErfanGSIs-VelanGSIs.git  ErfanGSIs
+         run: git clone --recurse-submodules https://github.com/Velosh/ErfanGSIs-VelanGSIs.git ErfanGSIs
        
        - name: Setting up ErfanGSI requirements
          run: |
