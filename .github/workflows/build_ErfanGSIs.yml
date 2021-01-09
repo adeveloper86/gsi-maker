@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dlcdnets.asus.com/pub/ASUS/ZenFone/ZS660KL/UL-ASUS_I001_1-ASUS-17.0240.2012.65-1.1.228-user.zip
-  ROM_NAME: RogUI 
+  ROM_URL: https://excellmedia.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.12.9/xiaomi.eu_multi_MI9SE_20.12.9_v12-10.zip
+  ROM_NAME: MIUI 
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: RogUI
+  ZIP_NAME: MIUI
 jobs:
   build:
     runs-on: ubuntu-latest
