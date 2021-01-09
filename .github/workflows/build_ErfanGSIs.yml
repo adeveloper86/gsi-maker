@@ -6,10 +6,10 @@ on:
     
 env:
   ROM_URL: https://dlcdnets.asus.com/pub/ASUS/ZenFone/ZS660KL/UL-ASUS_I001_1-ASUS-17.0240.2012.65-1.1.228-user.zip
-  ROM_NAME: ASUS 
+  ROM_NAME: RogUI 
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: ASUS 
+  ZIP_NAME: RogUI
 jobs:
   build:
     runs-on: ubuntu-latest
