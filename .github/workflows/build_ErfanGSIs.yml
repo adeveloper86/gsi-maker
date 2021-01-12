@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://liquidtelecom.dl.sourceforge.net/project/crdroid/cepheus/6.x/crDroidAndroid-10.0-20201222-cepheus-v6.13.zip
-  ROM_NAME: Generic:crDroidAndroid-v6.13-10.0 
+  ROM_URL: https://drive.google.com/file/d/1UXIlrjynFdCfyyl4W7INoAETOpdn_ZPY/edit
+  ROM_NAME: MIUI:ABHIX ROG EDITION-20.11.18
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: crDroidAndroid-v6.13-10.0
+  ZIP_NAME: ABHIX ROG EDITION-20.11.18
 jobs:
   build:
     runs-on: ubuntu-latest
