@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://drive.google.com/file/d/1UXIlrjynFdCfyyl4W7INoAETOpdn_ZPY/edit
+  ROM_URL: https://doc-04-0s-docs.googleusercontent.com/docs/securesc/r1e72fk0gc5cabk6kfmdtkadbkc39d5u/tmpd4fk7s2ma4e9r7op473cokjsh4sdm/1610442675000/05736488493778403904/03437270075442595192/1UXIlrjynFdCfyyl4W7INoAETOpdn_ZPY?e=download&authuser=0&nonce=29h24i393gvqk&user=03437270075442595192&hash=7cuu36o32saj5sb12huj94jg5rcnh8i8
   ROM_NAME: MIUI:ABHIX ROG EDITION-20.11.18
   TZ: Asia/Kolkata
   MIR: wet
