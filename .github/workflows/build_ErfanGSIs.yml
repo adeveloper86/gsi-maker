@@ -9,7 +9,7 @@ env:
   ROM_NAME: MIUI:ABHIX ROG EDITION-20.11.18
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: MIUI:ABHIX ROG EDITION-20.11.18
+  ZIP_NAME: MIUI
 jobs:
   build:
     runs-on: ubuntu-latest
