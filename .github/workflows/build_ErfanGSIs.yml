@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://gdmbd.sasohan.workers.dev/ABHIX_ROG_EDITION_raphael_20.11.18_10.zip
-  ROM_NAME: MIUI:ABHIX ROG EDITION-20.11.18
+  ROM_URL: https://downloads.msmxtended.org/davinci/Xtended-XR-v4.0-davinci-OFFICIAL-20210112.zip
+  ROM_NAME: Generic:MSM-Xtended-XR-v4.0-11
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: MIUI
+  ZIP_NAME: MSM-Xtended-XR-v4.0-11
 jobs:
   build:
     runs-on: ubuntu-latest
