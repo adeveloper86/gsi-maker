@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.1.11/miui_GRUS_21.1.11_87c45acda6_11.0.zip
-  ROM_NAME: MIUI:Miui-CN-MI9SE-21.1.11
+  ROM_URL: https://hugeota.d.miui.com/21.1.11/miui_LAURUS_21.1.11_cf3903c6e3_10.0.zip
+  ROM_NAME: MIUI:Miui-CN-MICC9E-21.1.11
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Miui-CN-MI9SE-21.1.11
+  ZIP_NAME: Miui-CN-MICC9E-21.1.11
 jobs:
   build:
     runs-on: ubuntu-latest
