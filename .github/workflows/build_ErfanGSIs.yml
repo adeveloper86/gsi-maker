@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.1.11/miui_LAURUS_21.1.11_cf3903c6e3_10.0.zip
-  ROM_NAME: MIUI:Miui-CN-MICC9E-21.1.11
+  ROM_URL: https://liquidtelecom.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.9.17/xiaomi.eu_multi_MINote10_MICC9Pro_20.9.17_v12-10.zip
+  ROM_NAME: MIUI:Miui-EU-MICC9Pro-20.9.17
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Miui-CN-MICC9E-21.1.11
+  ZIP_NAME: Miui-EU-MICC9Pro-20.9.17
 jobs:
   build:
     runs-on: ubuntu-latest
